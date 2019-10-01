@@ -1,2 +1,2 @@
 # python_master
-Mastering in Python 
+This repository consist with personal/school projects. 
